@@ -1,0 +1,14 @@
+
+Hadoop
+
+   演示 数据采集 数据处理
+
+   HDFS   MapReduce(Eclipse开发)
+
+   精选博客 
+       https://blog.csdn.net/bingduanlbd/article/details/51924398
+
+
+
+   
+   
